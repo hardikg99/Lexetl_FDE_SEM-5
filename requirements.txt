@@ -1,0 +1,9 @@
+pymupdf==1.23.7
+pdfplumber
+pytesseract
+chromadb
+sentence-transformers
+rouge-score
+pandas
+tqdm
+nltk
